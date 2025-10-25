@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Jollibee",
+        "lat":8.367421,
+        "lng":124.865263,
+         "description": "My Favorite Fast Food Restaurant",
+        "img" : "JOLLIBEE.jfif"
+    },
+    {
+         "name":"Papuff",
+        "lat":8.367315,
+        "lng":124.866706,
+         "description": "My Favorite Coffee Shop"
+
+    },
+
+{
+     "name":"Andoks",
+        "lat":8.367440,
+        "lng":124.866156,
+         "description": "My Favorite Coffee Shop"
+        
+}
+
+
+]
